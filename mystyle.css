@@ -1,0 +1,109 @@
+body {
+	margin: 0px;
+}
+header{
+	height:80px;
+	width:100%;
+    background-color: #ADD8E6; 
+    font-size: 25px;
+}
+header a{
+	position: relative;
+	top: 20px;
+	left: 20px;
+	border:1px solid blue;
+}
+nav{
+	height: 390px; 
+	width:20%; 
+	background: linear-gradient(#D3D3D3 0%,#808080 100%);  
+	float: left;
+	text-align: center;
+	font-size: 25px;
+}
+nav a{
+	position: relative;
+	top: 195px;
+}
+.container{
+	background-color: #FAEBD7;
+}
+.container div{
+	display: inline-block;
+}
+.section{
+	height: 200px; 
+	width: 522px; 
+	background: 
+	radial-gradient(#FFFFFF 0%,#FFA500 100%);
+	margin-top: 10px;
+	margin-left: 10px;
+	text-align: center;
+	font-size: 25px;
+}
+.section a{
+	position: relative;
+	top: 100px;
+} 
+.aside{
+	height: 200px; 
+	width: 522px; 
+	background: radial-gradient(#FFFFFF 0%,#FFA500 100%);
+	margin-left: 20px;
+	text-align: center;
+	font-size: 25px; 
+}
+.aside a{
+	position: relative;
+	top: 100px;
+} 
+.left{
+	height: 150px; 
+	width: 340px; 
+	background: radial-gradient(#FFFFFF 0%,#FFA07A 100%);
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	font-size: 25px; 
+}
+.left a{
+	position: relative;
+	top: 75px;
+} 
+.middle{
+	height: 150px; 
+	width: 340px; 
+	background: radial-gradient(#FFFFFF 0%,#FFA07A 100%);
+	margin-left: 20px;
+	text-align: center;
+	font-size: 25px; 
+}
+.middle a{
+	position: relative;
+	top: 75px;
+} 
+.right{
+	height: 150px; 
+	width: 340px; 
+	background: radial-gradient(#FFFFFF 0%,#FFA07A 100%);
+	margin-left: 20px;
+	text-align: center;
+	font-size: 25px;  
+}
+.right a{
+	position: relative;
+	top: 75px;
+} 
+footer{
+	height:60px;
+    width:100%; 
+    background-color: #696969;
+	text-align:center; 
+	color: white; 
+	font-size: 25px;
+}
+footer a{
+	position: relative;
+	top: 15px;
+} 
